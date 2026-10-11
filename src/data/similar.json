@@ -1,0 +1,362 @@
+[
+  {
+    "id": "mirip-001",
+    "first": {
+      "ar": "لَحْم",
+      "latin": "laḥm",
+      "id_text": "daging"
+    },
+    "second": {
+      "ar": "لِحَام",
+      "latin": "liḥām",
+      "id_text": "pengelasan"
+    },
+    "tip": "Beda harakat saja: daging vs las. Jangan tertukar di bengkel!",
+    "track": "all"
+  },
+  {
+    "id": "mirip-002",
+    "first": {
+      "ar": "حِسَاب",
+      "latin": "ḥisāb",
+      "id_text": "akun / hitungan"
+    },
+    "second": {
+      "ar": "حَاسُوب",
+      "latin": "ḥāsūb",
+      "id_text": "komputer"
+    },
+    "tip": "Satu akar kata (ح-س-ب): menghitung.",
+    "track": "all"
+  },
+  {
+    "id": "mirip-003",
+    "first": {
+      "ar": "كَهْرَبَاء",
+      "latin": "kahrabā’",
+      "id_text": "listrik"
+    },
+    "second": {
+      "ar": "كَهْرَبَائِيّ",
+      "latin": "kahrabā’iyy",
+      "id_text": "bersifat listrik"
+    },
+    "tip": "Tambahan ـِيّ mengubah kata benda menjadi kata sifat.",
+    "track": "all"
+  },
+  {
+    "id": "mirip-004",
+    "first": {
+      "ar": "قَطْع",
+      "latin": "qaṭ‘",
+      "id_text": "pemotongan"
+    },
+    "second": {
+      "ar": "قِطْعَة",
+      "latin": "qiṭ‘ah",
+      "id_text": "komponen / potongan"
+    },
+    "tip": "Pola mirip, arti berbeda: proses vs benda.",
+    "track": "all"
+  },
+  {
+    "id": "mirip-005",
+    "first": {
+      "ar": "عَامِل",
+      "latin": "‘āmil",
+      "id_text": "pekerja"
+    },
+    "second": {
+      "ar": "عَمِيل",
+      "latin": "‘amīl",
+      "id_text": "pelanggan / klien"
+    },
+    "tip": "Mirip dilihat sekilas, tetapi pelaku dan penerima layanan.",
+    "track": "all"
+  },
+  {
+    "id": "mirip-006",
+    "first": {
+      "ar": "أَمْس",
+      "latin": "ams",
+      "id_text": "kemarin"
+    },
+    "second": {
+      "ar": "غَد",
+      "latin": "ghad",
+      "id_text": "besok"
+    },
+    "tip": "Pasangan waktu: lampau vs akan datang.",
+    "track": "all"
+  },
+  {
+    "id": "mirip-007",
+    "first": {
+      "ar": "شُكْرًا",
+      "latin": "syukran",
+      "id_text": "terima kasih"
+    },
+    "second": {
+      "ar": "عَفْوًا",
+      "latin": "‘afwan",
+      "id_text": "sama-sama / permisi"
+    },
+    "tip": "Pasangan ucapan: mengucap dan menjawab.",
+    "track": "all"
+  },
+  {
+    "id": "mirip-008",
+    "first": {
+      "ar": "سَبْعَة",
+      "latin": "sab‘ah",
+      "id_text": "tujuh"
+    },
+    "second": {
+      "ar": "تِسْعَة",
+      "latin": "tis‘ah",
+      "id_text": "sembilan"
+    },
+    "tip": "Bentuk huruf kedua mirip: س-ب-ع vs ت-س-ع.",
+    "track": "all"
+  },
+  {
+    "id": "mirip-009",
+    "first": {
+      "ar": "خَمْسَة",
+      "latin": "khamsah",
+      "id_text": "lima"
+    },
+    "second": {
+      "ar": "خَمِيس",
+      "latin": "khamīs",
+      "id_text": "Kamis"
+    },
+    "tip": "Satu akar ‘lima’: Kamis adalah hari kelima.",
+    "track": "all"
+  },
+  {
+    "id": "mirip-010",
+    "first": {
+      "ar": "خَطَأ",
+      "latin": "khaṭa’",
+      "id_text": "kesalahan (error)"
+    },
+    "second": {
+      "ar": "خَطَر",
+      "latin": "khaṭar",
+      "id_text": "bahaya"
+    },
+    "tip": "Hanya beda huruf akhir: ء vs ر.",
+    "track": "rpl"
+  },
+  {
+    "id": "mirip-011",
+    "first": {
+      "ar": "رَفْع",
+      "latin": "raf‘",
+      "id_text": "unggah"
+    },
+    "second": {
+      "ar": "تَنْزِيل",
+      "latin": "tanzīl",
+      "id_text": "unduh"
+    },
+    "tip": "Naik ke server vs turun ke perangkatmu.",
+    "track": "rpl"
+  },
+  {
+    "id": "mirip-012",
+    "first": {
+      "ar": "قَاعِدَة",
+      "latin": "qā‘idah",
+      "id_text": "basis / dasar"
+    },
+    "second": {
+      "ar": "قَائِمَة",
+      "latin": "qā’imah",
+      "id_text": "daftar / menu"
+    },
+    "tip": "Bentuk tulisan mirip: ق-ا-ع-د vs ق-ا-ئ-م.",
+    "track": "rpl"
+  },
+  {
+    "id": "mirip-013",
+    "first": {
+      "ar": "شَبَكَة",
+      "latin": "syabakah",
+      "id_text": "jaringan"
+    },
+    "second": {
+      "ar": "شَاشَة",
+      "latin": "syāsyah",
+      "id_text": "layar"
+    },
+    "tip": "Sama-sama diawali ش dan tiga huruf kuat.",
+    "track": "rpl"
+  },
+  {
+    "id": "mirip-014",
+    "first": {
+      "ar": "خَادِم",
+      "latin": "khādim",
+      "id_text": "server"
+    },
+    "second": {
+      "ar": "خَادِمَة",
+      "latin": "khādimah",
+      "id_text": "pelayan perempuan"
+    },
+    "tip": "Ta marbutah mengubah jenis kelamin; server tidak berubah.",
+    "track": "rpl"
+  },
+  {
+    "id": "mirip-015",
+    "first": {
+      "ar": "مَصْرُوف",
+      "latin": "maṣrūf",
+      "id_text": "beban / biaya"
+    },
+    "second": {
+      "ar": "مَصْرِف",
+      "latin": "maṣrif",
+      "id_text": "bank"
+    },
+    "tip": "Beda satu harakat dan satu huruf: biaya vs bank.",
+    "track": "akuntansi"
+  },
+  {
+    "id": "mirip-016",
+    "first": {
+      "ar": "مَدِين",
+      "latin": "madīn",
+      "id_text": "debit / berutang"
+    },
+    "second": {
+      "ar": "دَائِن",
+      "latin": "dā’in",
+      "id_text": "kredit / pemberi utang"
+    },
+    "tip": "Posisi pencatatan yang berlawanan.",
+    "track": "akuntansi"
+  },
+  {
+    "id": "mirip-017",
+    "first": {
+      "ar": "دَخْل",
+      "latin": "dakhl",
+      "id_text": "penghasilan"
+    },
+    "second": {
+      "ar": "خَرْج",
+      "latin": "kharj",
+      "id_text": "pengeluaran"
+    },
+    "tip": "Huruf د-خ-ل dibalik jadi خ-ر-ج.",
+    "track": "akuntansi"
+  },
+  {
+    "id": "mirip-018",
+    "first": {
+      "ar": "مَدْفُوعَات",
+      "latin": "madfū‘āt",
+      "id_text": "pembayaran keluar"
+    },
+    "second": {
+      "ar": "مَقْبُوضَات",
+      "latin": "maqbūḍāt",
+      "id_text": "penerimaan masuk"
+    },
+    "tip": "Pola sama مَفْعُولَات, arah uang berbeda.",
+    "track": "akuntansi"
+  },
+  {
+    "id": "mirip-019",
+    "first": {
+      "ar": "مِفَكّ",
+      "latin": "mifakk",
+      "id_text": "obeng"
+    },
+    "second": {
+      "ar": "مِفْتَاح",
+      "latin": "miftāḥ",
+      "id_text": "kunci"
+    },
+    "tip": "Alat berbeda: memutar sekrup vs mengencangkan mur.",
+    "track": "tbkr"
+  },
+  {
+    "id": "mirip-020",
+    "first": {
+      "ar": "صَدَأ",
+      "latin": "ṣada’",
+      "id_text": "karat"
+    },
+    "second": {
+      "ar": "صَدْمَة",
+      "latin": "ṣadmah",
+      "id_text": "benturan"
+    },
+    "tip": "Awalan ص-د mirip; satu kerusakan kimia, satu fisik.",
+    "track": "tbkr"
+  },
+  {
+    "id": "mirip-021",
+    "first": {
+      "ar": "طِلَاء",
+      "latin": "ṭilā’",
+      "id_text": "cat / pelapis"
+    },
+    "second": {
+      "ar": "طَلَب",
+      "latin": "ṭalab",
+      "id_text": "permintaan"
+    },
+    "tip": "Mirip di huruf awal ط-ل.",
+    "track": "tbkr"
+  },
+  {
+    "id": "mirip-022",
+    "first": {
+      "ar": "مِكْبَح",
+      "latin": "mikbaḥ",
+      "id_text": "rem"
+    },
+    "second": {
+      "ar": "مِكْبَس",
+      "latin": "mikbas",
+      "id_text": "piston"
+    },
+    "tip": "Pola مِفْعَل sama, bagian mesin berbeda.",
+    "track": "tsm"
+  },
+  {
+    "id": "mirip-023",
+    "first": {
+      "ar": "دَرَّاجَة",
+      "latin": "darrājah",
+      "id_text": "motor / sepeda"
+    },
+    "second": {
+      "ar": "دَرَجَة",
+      "latin": "darajah",
+      "id_text": "derajat / tingkat"
+    },
+    "tip": "Satu akar, harakat berbeda: kendaraan vs ukuran.",
+    "track": "tsm"
+  },
+  {
+    "id": "mirip-024",
+    "first": {
+      "ar": "تَسْرِيب",
+      "latin": "tasrīb",
+      "id_text": "kebocoran"
+    },
+    "second": {
+      "ar": "تَسْرِيع",
+      "latin": "tasrī‘",
+      "id_text": "percepatan"
+    },
+    "tip": "Hanya beda huruf ب vs ع.",
+    "track": "tsm"
+  }
+]

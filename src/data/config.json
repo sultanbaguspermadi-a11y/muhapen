@@ -1,0 +1,99 @@
+{
+  "app": {
+    "name": "SakuArab",
+    "tagline": "Arab buat dunia kerja, bukan cuma hafalan.",
+    "locale": "id-ID",
+    "defaultTrack": "RPL",
+    "maxContentWidth": 1100
+  },
+  "theme": {
+    "mode": "dark",
+    "accent": "#6366F1",
+    "radius": "1rem",
+    "glassHeader": true,
+    "glassBottomNav": true
+  },
+  "arabic": {
+    "fontFamily": "Noto Naskh Arabic, Amiri, serif",
+    "fontSize": 36,
+    "showHarakat": true,
+    "showTransliteration": true,
+    "lineHeight": 1.9
+  },
+  "features": {
+    "quiz": true,
+    "streak": true,
+    "share": true,
+    "flashcards": true,
+    "similarWords": true,
+    "history": true,
+    "bookmarks": true,
+    "offline": true
+  },
+  "tracks": [
+    {
+      "id": "RPL",
+      "name": "Rekayasa Perangkat Lunak",
+      "shortName": "RPL",
+      "accent": "#6366F1",
+      "icon": "Code2",
+      "dataFile": "rpl.json",
+      "description": "Kode, aplikasi, web, jaringan, dan basis data."
+    },
+    {
+      "id": "Akuntansi",
+      "name": "Akuntansi",
+      "shortName": "AKL",
+      "accent": "#10B981",
+      "icon": "Calculator",
+      "dataFile": "akuntansi.json",
+      "description": "Transaksi, laporan keuangan, pajak, dan audit."
+    },
+    {
+      "id": "TBKR",
+      "name": "Teknik Bodi Kendaraan Ringan",
+      "shortName": "TBKR",
+      "accent": "#F97316",
+      "icon": "CarFront",
+      "dataFile": "tbkr.json",
+      "description": "Panel bodi, pengelasan, pengecatan, dan K3."
+    },
+    {
+      "id": "TSM",
+      "name": "Teknik Sepeda Motor",
+      "shortName": "TSM",
+      "accent": "#EF4444",
+      "icon": "Bike",
+      "dataFile": "tsm.json",
+      "description": "Mesin, transmisi, rem, kelistrikan, dan servis."
+    },
+    {
+      "id": "Umum",
+      "name": "Kosakata Umum",
+      "shortName": "UMUM",
+      "accent": "#0EA5E9",
+      "icon": "BookOpen",
+      "dataFile": "umum.json",
+      "description": "Ungkapan sehari-hari dan keselamatan kerja."
+    }
+  ],
+  "data": {
+    "schemaVersion": 4,
+    "trackFilesLazyLoaded": true,
+    "arabicNormalization": [
+      "diacritics",
+      "tatweel",
+      "alif-variants",
+      "alif-maqsura",
+      "ta-marbuta-search-fold"
+    ],
+    "stableIdStrategy": "track + normalizedArabic + meaning hash"
+  },
+  "pwa": {
+    "display": "standalone",
+    "start_url": "./",
+    "scope": "./",
+    "theme_color": "#0B1020",
+    "background_color": "#0B1020"
+  }
+}
